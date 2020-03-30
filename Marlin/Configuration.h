@@ -733,7 +733,7 @@
  * Override with M92
  *                                      X, Y, Z, E0 [, E1[, E2...]]
  */
-#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93,75, 93.75, 93.75 }
+#define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 400, 93.75, 93.75, 93.75 }
 // Fat Prusa: X= GT2+20 dents ,  Y=T2.5+16 dents
 
 
